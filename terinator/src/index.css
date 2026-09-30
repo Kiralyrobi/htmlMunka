@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruslan+Display&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #FFBAF1;
+}
+
+h1{
+    font-family: 'Ruslan Display', cursive;
+    color: white;
+}
