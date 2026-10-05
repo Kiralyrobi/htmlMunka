@@ -1,0 +1,34 @@
+.kartyak{
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+}
+.card{
+    margin: 50px;
+    border:2px, solid, black;
+    border-radius: 5px;
+    padding: 10px;
+    background: #9efffd;
+    background: linear-gradient(228deg,rgba(158, 255, 253, 1) 0%, rgba(248, 255, 115, 1) 100%);
+    text-align: center;
+}
+.cim{
+    text-align: center;
+}
+body{
+    background: #bf0000;
+    background: linear-gradient(228deg,rgba(191, 0, 0, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    height: 100vh;
+}
+.likes{
+    text-align: right;
+}
+button{
+    border-style: none;
+}
+.like{
+    border: 5px solid orangered;
+}
+small{
+    font-size: 10px;
+}
